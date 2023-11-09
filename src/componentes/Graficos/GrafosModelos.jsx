@@ -61,7 +61,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Atributos de Personalidad</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/jalico/grafo_modelo-Atributos%20de%20Personalidad-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Atributos%20de%20Personalidad-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={atributospersonalidad} className='imagen-grafo-modelos' />
     </div>
