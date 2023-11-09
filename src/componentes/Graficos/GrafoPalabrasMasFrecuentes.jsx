@@ -249,7 +249,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
     <div className='bigramas-trigramas'>
       <div id="palabrasMasFrecuentes" className='carta2' style={{backgroundColor:"#001529"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/figuras/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/jalisco/grafo_palabras-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>
@@ -269,7 +269,7 @@ Esta combinación de grafos, proporciona una visión más profunda y precisa de 
       <div className='bigramas-trigramas'>
       <div id="trigramas" className='carta2' style={{backgroundColor:"#001529"}}></div>
       <Tooltip title='Abrir en otro navegador'>
-    <a href={`https://qsngrafos.vercel.app/palabras/figuras/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
+    <a href={`https://qsngrafos.vercel.app/palabras/jalisco/grafo_trigramas-frecuentes-${filtroFecha}.html`} target="_blank"><Button className='boton-abrirnavegador' shape="circle">
         <MdOpenInNew/>
     </Button>
      </a>

@@ -120,7 +120,7 @@ export default function GraphHashtags() {
 
         <Tooltip title="Click para ver el grafo">
           <a
-            href={`https://qsngrafos.vercel.app/co-ocurrencia/figuras/grafo_co-ocurencia_hashtags-${filtroFecha}.html`}
+            href={`https://qsngrafos.vercel.app/co-ocurrencia/jalisco/grafo_co-ocurencia_hashtags-${filtroFecha}.html`}
             target="_blank"
           >
             <div>

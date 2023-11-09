@@ -50,7 +50,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
         <div className='titulo-modelo'>Sentimientos</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Sentimientos-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Sentimientos-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={sentimientos} className='imagen-grafo-modelos' />
     </div>
@@ -61,7 +61,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Atributos de Personalidad</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Atributos%20de%20Personalidad-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalico/grafo_modelo-Atributos%20de%20Personalidad-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={atributospersonalidad} className='imagen-grafo-modelos' />
     </div>
@@ -71,7 +71,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Atributos de Politicos</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Atributos%20de%20Politicos-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Atributos%20de%20Politicos-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={atributospoliticos} className='imagen-grafo-modelos' />
     </div>
@@ -91,7 +91,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Emociones Básicas (Plutchik)</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Emociones%20Básicas%20(Plutchik)-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Emociones%20Básicas%20(Plutchik)-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={emocionesbasicas} className='imagen-grafo-modelos' />
     </div>
@@ -111,7 +111,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Red motivacional del voto</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Red%20motivacional%20del%20voto-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Red%20motivacional%20del%20voto-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={redmotivacional} className='imagen-grafo-modelos' />
     </div>
@@ -121,7 +121,7 @@ export default function GrafosModelos(){
     <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Voto Emocional y Racional</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Voto%20Emocional%20y%20Racional-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/jalisco/grafo_modelo-Voto%20Emocional%20y%20Racional-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={votoemrac} className='imagen-grafo-modelos' />
     </div>
@@ -129,7 +129,7 @@ export default function GrafosModelos(){
     </Tooltip>
     </div>
 
-    <div className='grafo-video-modelos'>
+    {/* <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Preocupaciones VEN</div>
     <a href={`https://qsngrafos.vercel.app/modelos/figuras/grafo_modelo-Preocupaciones%20-%20Ven-${filtroFecha}.html`} target="_blank">
@@ -138,7 +138,7 @@ export default function GrafosModelos(){
     </div>
     </a>
     </Tooltip>
-    </div>
+    </div> */}
     </div>
     </div>
     </div>

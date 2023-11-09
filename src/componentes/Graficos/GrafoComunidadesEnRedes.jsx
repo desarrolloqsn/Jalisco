@@ -361,7 +361,7 @@ export default function GrafoComunidadesEnRedes() {
           
         <Tooltip title="Click para ver el grafo">
           <a
-           href={`https://qsngrafos.vercel.app/comunidades/figuras/grafo_comunidades-${filtroFecha}.html`}
+           href={`https://qsngrafos.vercel.app/comunidades/jalisco/grafo_comunidades-${filtroFecha}.html`}
             target="_blank"
           >
             <div>

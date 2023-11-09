@@ -135,7 +135,7 @@ export default function GraphComunidades() {
     
         <Tooltip title="Click para ver el grafo">
           <a
-            href={`https://qsngrafos.vercel.app/hasgtags-menciones/figuras/grafo_hashtags_menciones-${filtroFecha}.html`}
+            href={`https://qsngrafos.vercel.app/hasgtags-menciones/jalisco/grafo_hashtags_menciones-${filtroFecha}.html`}
             target="_blank"
           >
                   {/* <div className="subtitulo-carta" style={{fontSize:'20px'}}>Comunidades completas</div> */}
